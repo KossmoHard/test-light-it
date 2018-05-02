@@ -1,0 +1,30 @@
+[30-Apr-2018 21:41:30 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:41:30 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:41:30 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:41:40 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:41:40 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:41:40 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:42:51 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:42:51 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:42:51 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:43:17 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:43:17 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:43:17 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:43:20 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:43:20 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:43:20 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:44:05 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:44:05 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:44:05 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:47:46 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:47:46 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:47:46 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:49:30 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:49:30 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:49:30 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:54:45 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:54:45 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:54:45 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:55:28 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:55:28 UTC] PHP Warning:  include_once(ROOT/models/Done.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3
+[30-Apr-2018 21:55:28 UTC] PHP Warning:  include_once(): Failed opening 'ROOT/models/Done.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/controllers/DoneController.php on line 3

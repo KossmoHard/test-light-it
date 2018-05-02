@@ -1,0 +1,22 @@
+[24-Apr-2018 18:19:43 UTC] PHP Notice:  Undefined variable: projects_list in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:19:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:20:40 UTC] PHP Notice:  Undefined variable: projects_list in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:20:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:21:01 UTC] PHP Notice:  Undefined variable: projects_list in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:21:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:29:33 UTC] PHP Notice:  Undefined variable: projects_list in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:30:20 UTC] PHP Notice:  Undefined variable: projects_list in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[24-Apr-2018 18:30:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/schur186/foxyweb.tk/views/home/mode.php on line 2
+[27-Apr-2018 11:49:25 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:49:25 UTC] PHP Warning:  require_once(ROOT/models/Home.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:49:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'ROOT/models/Home.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:51:03 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:51:03 UTC] PHP Warning:  require_once(ROOT/models/Home.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:51:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'ROOT/models/Home.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:51:26 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:51:26 UTC] PHP Warning:  require_once(ROOT/models/Home.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:51:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'ROOT/models/Home.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:52:29 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:52:29 UTC] PHP Warning:  require_once(ROOT/models/Home.php): failed to open stream: No such file or directory in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4
+[27-Apr-2018 11:52:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'ROOT/models/Home.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/schur186/foxyweb.tk/views/home/select_task.php on line 4

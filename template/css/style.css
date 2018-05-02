@@ -1,0 +1,310 @@
+#form {
+    display: block;
+    margin-bottom: 185px;
+    margin-top: 185px;
+    overflow: hidden;
+}
+
+.login-form {
+
+}
+
+.signup-form {
+
+}
+
+.login-form h2, .signup-form h2 {
+    color: #696763;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+
+.login-form form input, .signup-form form input {
+    background: #ccc;
+    border: medium none;
+    color: #696763;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    height: 40px;
+    margin-bottom: 10px;
+    outline: medium none;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.login-form form span{
+    line-height: 25px;
+}
+
+.login-form form span input {
+    width: 15px;
+    float: left;
+    height: 15px;
+    margin-right: 5px;
+}
+
+.login-form form button {
+    margin-top: 23px;
+}
+
+.login-form form button, .signup-form form button {
+    background: #FE980F;
+    border: medium none;
+    border-radius: 0;
+    color: #FFFFFF;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    padding: 6px 25px;
+}
+
+.login-form label{
+
+}
+
+
+.login-form label input {
+    border: medium none;
+    display: inline-block;
+    height: 0;
+    margin-bottom: 0;
+    outline: medium none;
+    padding-left: 0;
+}
+
+
+.or{
+    background: #FE980F;
+    border-radius: 40px;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 75px;
+    text-align: center;
+    width: 50px;
+}
+.navbar{
+  position: relative;
+}
+.today{
+  margin-bottom: 30px;
+}
+.add_project{
+  margin-top: 30px;
+}
+.add_project a{
+  color: #FF0700;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.add_task{
+  color: #FF0700;
+  font-size: 14px;
+  float: left;
+  margin: 10px 0px;
+  display: block;
+}
+.form-add-task{
+  width: 100%;
+  float: left;
+}
+.add_project form{
+  margin-top: 10px;
+}
+
+.add_project form input[type="text"]{
+  float: left;
+  height: 35px;
+  width: 87%;
+  margin-left: 1%;
+}
+.form-add-task input[type="text"], .form-add-task input[type="datetime"]{
+  float: left;
+  height: 35px;
+}
+
+.button-color{
+  background-image: none;
+  background-color: rgb(153, 204, 0);
+  color: rgb(0, 0, 0);
+  width: 20px;
+  height: 20px;
+  margin-top: 7px;
+  border-radius: 100%;
+  border: 0px;
+  float: left;
+}
+.container-right{
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  padding: 20px;
+  float: left;
+}
+.menu-left{
+  border: 1px solid #ddd;
+  padding: 20px;
+  float: left;
+  width: 100%;
+  height: auto;
+}
+.button-form, .button-add-task{
+  padding: 5px 30px;
+  margin-top: 10px;
+}
+.button-cancel, .button-cancel-task{
+  margin-top: 10px;
+}
+.no-margin {padding: 0 !important}
+.circle{
+  width: 10px;
+  height: 10px;
+  float: left;
+  position: absolute;
+  left: 5px;
+  border-radius: 100%;
+  bottom: 0;
+  top: 0;
+  z-index: 1;
+  margin: auto;
+}
+.circle-right{
+  float: right;
+  position: relative;
+  margin: 5px;
+  background: #ddd;
+}
+.squere {
+    width: 12px;
+    height: 12px;
+    float: left;
+    border: 1px solid #000;
+    background: #ddd;
+    margin: 4px;
+}
+
+.menu-left .btn-group{
+  position: absolute;
+  right: 5px;
+  top: 1px;
+  padding: 10px 0px;
+  z-index: 1;
+  display: none;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+  background: transparent;
+}
+.nav>li:hover .btn-group{
+  display: block;
+  background: transparent !important;
+}
+.add_form{
+  display: none;
+}
+.task{
+  border-bottom: 1px solid #ddd;
+  float: left;
+  width: 100%;
+  height: auto;
+  padding: 5px;
+  margin-top: 15px;
+}
+.task p{
+  margin: 0px;
+}
+.hight .squere, .icon-select-bar .hight{
+  background: #ff0000;
+}
+.middle .squere, .icon-select-bar .middle{
+  background: #ff9400;
+}
+.low .squere, .icon-select-bar .low{
+  background: #ffffff;
+}
+.not_done{
+  border: 1px solid red;
+  color: red;
+}
+.not_done .squere{
+  border: 1px solid red;
+}
+.icon-select-bar{
+  //margin-top: 10px;
+  font-size: 18px;
+  float: right;
+  color: #656565;
+}
+.icon-select-bar .fa{
+ margin: 10px;
+}
+
+
+.icon-select-bar input[type=radio] {
+  margin: 4px;
+  float: left;
+}
+.right-position{
+  float: right;
+}
+.open>.dropdown-menu {
+  padding: 5px;
+}
+.task .project-task{
+  width: 90%;
+  float: left;
+}
+
+.task .btn-group{
+    float: left;
+    width: 5%;
+    margin-left: 5%;
+}
+.form-add-task{
+  display: none;
+}
+.navbar-done{
+  float: right;
+  height: 50px;
+  font-size: 30px !important;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+  padding-left: 30px;
+}
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+  color: #131313;
+  background-color: transparent;
+}
+.navbar-done:hover {
+  color: #131313;
+}
+.logout-button {
+  float: right;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  color: #fff;
+}
+.navbar-inverse {
+  background-image: linear-gradient(to bottom,#0e68c5 0,#0e80c3 100%);
+}
+.active {
+background: #eee;
+}
+.nav>li>a {
+    padding: 10px 20px;
+}
+.today .nav>li>a {
+    padding: 10px 0px;
+}
